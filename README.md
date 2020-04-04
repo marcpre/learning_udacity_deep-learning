@@ -1,4 +1,4 @@
 # learning_udacity_deep-learning
 
 
-stopped at ---> 05.09
+stopped at ---> 06.02
