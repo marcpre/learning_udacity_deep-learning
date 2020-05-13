@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3df87bf2-d784-4997-8076-4c58f3490f18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3df87bf2-d784-4997-8076-4c58f3490f18" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -59,6 +56,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -86,13 +84,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585029149751</updated>
-    </task>
-    <task id="LOCAL-00001" summary="stopped at 05">
-      <created>1585029436950</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1585029436950</updated>
     </task>
     <task id="LOCAL-00002" summary="stopped at 05.10">
       <created>1585119495097</created>
@@ -430,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589175130964</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="stopped at ---&gt; 02.03.15">
+      <created>1589260960294</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1589260960295</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -456,7 +454,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stopped at ---&gt; 02.01.23" />
     <MESSAGE value="stopped at ---&gt; 02.01.24" />
     <MESSAGE value="stopped at ---&gt; 02.01.28" />
     <MESSAGE value="stopped at ---&gt; 02.01.29" />
@@ -481,7 +478,8 @@
     <MESSAGE value="stopped at ---&gt; 02.03.12" />
     <MESSAGE value="stopped at ---&gt; 02.03.13" />
     <MESSAGE value="stopped at ---&gt; 02.03.14" />
-    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 02.03.14" />
+    <MESSAGE value="stopped at ---&gt; 02.03.15" />
+    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 02.03.15" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
