@@ -15,7 +15,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="51">
-                <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+                <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
               </first_editor>
               <second_editor />
             </state>
@@ -84,13 +84,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585029149751</updated>
-    </task>
-    <task id="LOCAL-00005" summary="stopped at 04.01">
-      <created>1585464962252</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1585464962252</updated>
     </task>
     <task id="LOCAL-00006" summary="stopped at 05.02">
       <created>1585545837928</created>
@@ -428,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589519547553</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="stopped at ---&gt; 02.06.02">
+      <created>1589608599281</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1589608599282</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -454,7 +454,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stopped at ---&gt; 02.01.29" />
     <MESSAGE value="stopped at ---&gt; 02.01.31" />
     <MESSAGE value="stopped at ---&gt; 02.01.32" />
     <MESSAGE value="stopped at ---&gt; 02.01.33" />
@@ -479,14 +478,15 @@
     <MESSAGE value="stopped at ---&gt; 02.03.15" />
     <MESSAGE value="stopped at ---&gt; 02.05.01" />
     <MESSAGE value="stopped at ---&gt; 02.06.01" />
-    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 02.06.01" />
+    <MESSAGE value="stopped at ---&gt; 02.06.02" />
+    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 02.06.02" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="51">
-            <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
           </first_editor>
           <second_editor />
         </state>
