@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3df87bf2-d784-4997-8076-4c58f3490f18" name="Default Changelist" comment="" />
+    <list default="true" id="3df87bf2-d784-4997-8076-4c58f3490f18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,13 +87,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585029149751</updated>
-    </task>
-    <task id="LOCAL-00006" summary="stopped at 05.02">
-      <created>1585545837928</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1585545837928</updated>
     </task>
     <task id="LOCAL-00007" summary="stopped at 05.04">
       <created>1585631635580</created>
@@ -428,11 +424,19 @@
       <option name="project" value="LOCAL" />
       <updated>1589608599282</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="stopped at ---&gt; 02.06.05">
+      <created>1589695776092</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1589695776092</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.056902003" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -454,7 +458,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stopped at ---&gt; 02.01.31" />
     <MESSAGE value="stopped at ---&gt; 02.01.32" />
     <MESSAGE value="stopped at ---&gt; 02.01.33" />
     <MESSAGE value="stopped at ---&gt; 02.01.34" />
@@ -479,7 +482,8 @@
     <MESSAGE value="stopped at ---&gt; 02.05.01" />
     <MESSAGE value="stopped at ---&gt; 02.06.01" />
     <MESSAGE value="stopped at ---&gt; 02.06.02" />
-    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 02.06.02" />
+    <MESSAGE value="stopped at ---&gt; 02.06.05" />
+    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 02.06.05" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
