@@ -47,6 +47,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -58,7 +59,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -86,13 +86,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585029149751</updated>
-    </task>
-    <task id="LOCAL-00008" summary="stopped at 05.06">
-      <created>1585717500253</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1585717500254</updated>
     </task>
     <task id="LOCAL-00009" summary="stopped at 05.07">
       <created>1585805014971</created>
@@ -430,11 +423,18 @@
       <option name="project" value="LOCAL" />
       <updated>1589779367683</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="stopped at ---&gt; 02.06.08">
+      <created>1589865557498</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1589865557498</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.056902003" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -456,7 +456,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stopped at ---&gt; 02.01.33" />
     <MESSAGE value="stopped at ---&gt; 02.01.34" />
     <MESSAGE value="stopped at ---&gt; 02.02.xx" />
     <MESSAGE value="stopped at ---&gt; 02.02.03" />
@@ -481,7 +480,8 @@
     <MESSAGE value="stopped at ---&gt; 02.06.02" />
     <MESSAGE value="stopped at ---&gt; 02.06.05" />
     <MESSAGE value="stopped at ---&gt; 02.06.07" />
-    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 02.06.07" />
+    <MESSAGE value="stopped at ---&gt; 02.06.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 02.06.08" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
