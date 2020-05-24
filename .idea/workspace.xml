@@ -24,6 +24,11 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/1879517127/_asyncio.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -53,6 +58,21 @@
             <path>
               <item name="learning_udacity_deep-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning_udacity_deep-learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning_udacity_deep-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="learning_udacity_deep-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="learning_udacity_deep-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="1879517127" type="70582d5e:PySkeletonsNode" />
             </path>
           </expand>
           <select />
@@ -86,13 +106,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585029149751</updated>
-    </task>
-    <task id="LOCAL-00013" summary="stopped at 02.01.07">
-      <created>1586149949048</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1586149949048</updated>
     </task>
     <task id="LOCAL-00014" summary="stopped at 02.01.08">
       <created>1586236553582</created>
@@ -430,11 +443,18 @@
       <option name="project" value="LOCAL" />
       <updated>1590124916705</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="stopped at ---&gt; 02.06.14">
+      <created>1590213699098</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1590213699098</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -447,7 +467,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3261105" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -456,7 +476,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stopped at ---&gt; 02.02.04" />
     <MESSAGE value="stopped at ---&gt; 02.02.06" />
     <MESSAGE value="stopped at ---&gt; 02.02.07" />
     <MESSAGE value="stopped at ---&gt; 02.03.02" />
@@ -481,7 +500,8 @@
     <MESSAGE value="stopped at ---&gt; 02.06.10" />
     <MESSAGE value="stopped at ---&gt; 02.06.11" />
     <MESSAGE value="stopped at ---&gt; 02.06.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 02.06.13" />
+    <MESSAGE value="stopped at ---&gt; 02.06.14" />
+    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 02.06.14" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -493,6 +513,9 @@
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/1879517127/_asyncio.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
