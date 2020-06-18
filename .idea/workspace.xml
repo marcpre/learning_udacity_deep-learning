@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3df87bf2-d784-4997-8076-4c58f3490f18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -79,6 +79,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -106,13 +107,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585029149751</updated>
-    </task>
-    <task id="LOCAL-00038" summary="stopped at ---&gt; 02.03.02">
-      <created>1588223390170</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1588223390170</updated>
     </task>
     <task id="LOCAL-00039" summary="stopped at ---&gt; 02.03.03">
       <created>1588312584446</created>
@@ -450,14 +444,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592285284037</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="stopped at ---&gt; 03.02.11">
+      <created>1592372411385</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1592372411386</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="696" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18018967" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17965023" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -468,7 +469,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3206934" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3197158" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -477,7 +478,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stopped at ---&gt; 02.06.08" />
     <MESSAGE value="stopped at ---&gt; 02.06.10" />
     <MESSAGE value="stopped at ---&gt; 02.06.11" />
     <MESSAGE value="stopped at ---&gt; 02.06.13" />
@@ -502,7 +502,8 @@
     <MESSAGE value="stopped at ---&gt; 03.02.07" />
     <MESSAGE value="stopped at ---&gt; 03.02.09" />
     <MESSAGE value="stopped at ---&gt; 03.02.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 03.02.10" />
+    <MESSAGE value="stopped at ---&gt; 03.02.11" />
+    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 03.02.11" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
