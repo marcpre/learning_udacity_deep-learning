@@ -108,13 +108,6 @@
       <option name="presentableId" value="Default" />
       <updated>1585029149751</updated>
     </task>
-    <task id="LOCAL-00046" summary="stopped at ---&gt; 02.03.10">
-      <created>1588915771549</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1588915771549</updated>
-    </task>
     <task id="LOCAL-00047" summary="stopped at ---&gt; 02.03.12">
       <created>1589003757867</created>
       <option name="number" value="00047" />
@@ -451,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592890668506</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="stopped at ---&gt; 03.02.20">
+      <created>1592975642998</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1592975642999</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -478,7 +478,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stopped at ---&gt; 02.06.21" />
     <MESSAGE value="stopped at ---&gt; 02.06.22" />
     <MESSAGE value="stopped at ---&gt; 02.07.06" />
     <MESSAGE value="stopped at ---&gt; 02.08.04" />
@@ -503,7 +502,8 @@
     <MESSAGE value="stopped at ---&gt; 03.02.16" />
     <MESSAGE value="stopped at ---&gt; 03.02.17" />
     <MESSAGE value="stopped at ---&gt; 03.02.18" />
-    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 03.02.18" />
+    <MESSAGE value="stopped at ---&gt; 03.02.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 03.02.20" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
