@@ -102,13 +102,6 @@
       <option name="presentableId" value="Default" />
       <updated>1585029149751</updated>
     </task>
-    <task id="LOCAL-00085" summary="stopped at ---&gt; 03.02.09">
-      <created>1592200002580</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1592200002581</updated>
-    </task>
     <task id="LOCAL-00086" summary="stopped at ---&gt; 03.02.10">
       <created>1592285284036</created>
       <option name="number" value="00086" />
@@ -445,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596001208371</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary="stopped at ---&gt; 03.08.17">
+      <created>1596082605326</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1596082605327</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -463,8 +463,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.48682824" visible="true" weight="0.30119178" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51317173" side_tool="true" visible="true" weight="0.30119178" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.48630136" visible="true" weight="0.30119178" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51369864" side_tool="true" visible="true" weight="0.30119178" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -472,7 +472,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stopped at ---&gt; 03.05.03" />
     <MESSAGE value="stopped at ---&gt; 03.05.04" />
     <MESSAGE value="stopped at ---&gt; 03.05.05" />
     <MESSAGE value="stopped at ---&gt; 03.05.06" />
@@ -497,7 +496,8 @@
     <MESSAGE value="stopped at ---&gt; 03.08.13" />
     <MESSAGE value="stopped at ---&gt; 03.08.14" />
     <MESSAGE value="stopped at ---&gt; 03.08.15" />
-    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 03.08.15" />
+    <MESSAGE value="stopped at ---&gt; 03.08.17" />
+    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 03.08.17" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
