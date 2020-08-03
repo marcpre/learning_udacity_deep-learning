@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3df87bf2-d784-4997-8076-4c58f3490f18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,13 +100,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585029149751</updated>
-    </task>
-    <task id="LOCAL-00088" summary="stopped at ---&gt; 03.02.12">
-      <created>1592453874204</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1592453874205</updated>
     </task>
     <task id="LOCAL-00089" summary="stopped at ---&gt; 03.02.13">
       <created>1592544280772</created>
@@ -445,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596260227440</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="stopped at ---&gt; 03.08.21">
+      <created>1596348780535</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1596348780535</updated>
+    </task>
+    <option name="localTasksCounter" value="138" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -463,8 +462,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.48524764" visible="true" weight="0.30119178" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5147524" side_tool="true" visible="true" weight="0.30119178" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.48472077" visible="true" weight="0.30119178" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51527923" side_tool="true" visible="true" weight="0.30119178" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -472,7 +471,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stopped at ---&gt; 03.05.06" />
     <MESSAGE value="stopped at ---&gt; 03.06.02" />
     <MESSAGE value="stopped at ---&gt; 03.06.03" />
     <MESSAGE value="stopped at ---&gt; 03.06.04" />
@@ -497,7 +495,8 @@
     <MESSAGE value="stopped at ---&gt; 03.08.17" />
     <MESSAGE value="stopped at ---&gt; 03.08.18" />
     <MESSAGE value="stopped at ---&gt; 03.08.19" />
-    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 03.08.19" />
+    <MESSAGE value="stopped at ---&gt; 03.08.21" />
+    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 03.08.21" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
