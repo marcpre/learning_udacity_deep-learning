@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3df87bf2-d784-4997-8076-4c58f3490f18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +53,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -65,7 +65,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -93,13 +92,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585029149751</updated>
-    </task>
-    <task id="LOCAL-00105" summary="stopped at ---&gt; 03.05.02">
-      <created>1593756439307</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1593756439307</updated>
     </task>
     <task id="LOCAL-00106" summary="stopped at ---&gt; 03.05.03">
       <created>1593842304832</created>
@@ -437,14 +429,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597724868231</updated>
     </task>
-    <option name="localTasksCounter" value="154" />
+    <task id="LOCAL-00154" summary="stopped at ---&gt; 04.01.14">
+      <created>1597811374428</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1597811374429</updated>
+    </task>
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.115911484" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23498419" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -455,8 +454,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.47629082" visible="true" weight="0.29469123" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5237092" side_tool="true" visible="true" weight="0.29469123" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.47471023" visible="true" weight="0.29685807" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5252898" side_tool="true" visible="true" weight="0.29685807" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -464,7 +463,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stopped at ---&gt; 03.08.08" />
     <MESSAGE value="stopped at ---&gt; 03.08.09" />
     <MESSAGE value="stopped at ---&gt; 03.08.11" />
     <MESSAGE value="stopped at ---&gt; 03.08.13" />
@@ -489,7 +487,8 @@
     <MESSAGE value="stopped at ---&gt; 04.01.10" />
     <MESSAGE value="stopped at ---&gt; 04.01.12" />
     <MESSAGE value="stopped at ---&gt; 04.01.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 04.01.13" />
+    <MESSAGE value="stopped at ---&gt; 04.01.14" />
+    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 04.01.14" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/yahooquery.py" />
