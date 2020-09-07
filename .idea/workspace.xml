@@ -93,13 +93,6 @@
       <option name="presentableId" value="Default" />
       <updated>1585029149751</updated>
     </task>
-    <task id="LOCAL-00122" summary="stopped at ---&gt; 03.08.02">
-      <created>1595051691561</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1595051691561</updated>
-    </task>
     <task id="LOCAL-00123" summary="stopped at ---&gt; 03.08.03">
       <created>1595137423637</created>
       <option name="number" value="00123" />
@@ -436,12 +429,18 @@
       <option name="project" value="LOCAL" />
       <updated>1599285320712</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="stopped at ---&gt; 04.02.09">
+      <created>1599372185207</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1599372185207</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23498419" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -463,7 +462,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stopped at ---&gt; 04.01.01" />
     <MESSAGE value="stopped at ---&gt; 04.01.02" />
     <MESSAGE value="stopped at ---&gt; 04.01.03" />
     <MESSAGE value="stopped at ---&gt; 04.01.04" />
@@ -488,7 +486,8 @@
     <MESSAGE value="stopped at ---&gt; 04.02.06" />
     <MESSAGE value="stopped at ---&gt; 04.02.07" />
     <MESSAGE value="stopped at ---&gt; 04.02.08" />
-    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 04.02.08" />
+    <MESSAGE value="stopped at ---&gt; 04.02.09" />
+    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 04.02.09" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/yahooquery.py" />
