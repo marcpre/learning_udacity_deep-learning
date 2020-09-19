@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3df87bf2-d784-4997-8076-4c58f3490f18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +54,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -65,6 +65,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -92,13 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585029149751</updated>
-    </task>
-    <task id="LOCAL-00135" summary="stopped at ---&gt; 03.08.18">
-      <created>1596169954744</created>
-      <option name="number" value="00135" />
-      <option name="presentableId" value="LOCAL-00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1596169954745</updated>
     </task>
     <task id="LOCAL-00136" summary="stopped at ---&gt; 03.08.19">
       <created>1596260227440</created>
@@ -436,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600232182345</updated>
     </task>
-    <option name="localTasksCounter" value="184" />
+    <task id="LOCAL-00184" summary="stopped at ---&gt; 04.03.12">
+      <created>1600408038547</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1600408038547</updated>
+    </task>
+    <option name="localTasksCounter" value="185" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -453,9 +454,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49578503" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49525815" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4641728" weight="0.2936078" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50421494" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50474185" side_tool="true" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -463,7 +464,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stopped at ---&gt; 04.01.13" />
     <MESSAGE value="stopped at ---&gt; 04.01.14" />
     <MESSAGE value="stopped at ---&gt; 04.01.16" />
     <MESSAGE value="stopped at ---&gt; 04.01.17" />
@@ -488,7 +488,8 @@
     <MESSAGE value="stopped at ---&gt; 04.03.09" />
     <MESSAGE value="stopped at ---&gt; 04.03.10" />
     <MESSAGE value="stopped at ---&gt; 04.03.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 04.03.11" />
+    <MESSAGE value="stopped at ---&gt; 04.03.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 04.03.12" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/yahooquery.py" />
