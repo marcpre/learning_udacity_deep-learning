@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3df87bf2-d784-4997-8076-4c58f3490f18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3df87bf2-d784-4997-8076-4c58f3490f18" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,13 +94,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585029149751</updated>
-    </task>
-    <task id="LOCAL-00186" summary="stopped at ---&gt; 04.04.02">
-      <created>1600581836943</created>
-      <option name="number" value="00186" />
-      <option name="presentableId" value="LOCAL-00186" />
-      <option name="project" value="LOCAL" />
-      <updated>1600581836943</updated>
     </task>
     <task id="LOCAL-00187" summary="stopped at ---&gt; 04.04.02">
       <created>1600665338479</created>
@@ -440,12 +431,18 @@
       <option name="project" value="LOCAL" />
       <updated>1604731252367</updated>
     </task>
-    <option name="localTasksCounter" value="235" />
+    <task id="LOCAL-00235" summary="stopped at ---&gt; 05.01.14">
+      <created>1604817246251</created>
+      <option name="number" value="00235" />
+      <option name="presentableId" value="LOCAL-00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1604817246251</updated>
+    </task>
+    <option name="localTasksCounter" value="236" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18071654" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -467,7 +464,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stopped at ---&gt; 04.05.02" />
     <MESSAGE value="stopped at ---&gt; 04.05.04" />
     <MESSAGE value="stopped at ---&gt; 04.05.05" />
     <MESSAGE value="stopped at ---&gt; 04.05.06" />
@@ -492,7 +488,8 @@
     <MESSAGE value="stopped at ---&gt; 05.01.11" />
     <MESSAGE value="stopped at ---&gt; 05.01.12" />
     <MESSAGE value="stopped at ---&gt; 05.01.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 05.01.13" />
+    <MESSAGE value="stopped at ---&gt; 05.01.14" />
+    <option name="LAST_COMMIT_MESSAGE" value="stopped at ---&gt; 05.01.14" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/yahooquery.py" />
