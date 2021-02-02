@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3df87bf2-d784-4997-8076-4c58f3490f18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3df87bf2-d784-4997-8076-4c58f3490f18" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +15,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="119">
-                <caret line="7" selection-start-line="7" selection-end-line="7" />
+                <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -96,13 +94,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585029149751</updated>
-    </task>
-    <task id="LOCAL-00271" summary="stopped at ---&gt; 05.02.08">
-      <created>1607927506491</created>
-      <option name="number" value="00271" />
-      <option name="presentableId" value="LOCAL-00271" />
-      <option name="project" value="LOCAL" />
-      <updated>1607927506492</updated>
     </task>
     <task id="LOCAL-00272" summary="stopped at ---&gt; 05.02.08">
       <created>1608013950882</created>
@@ -440,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612077493370</updated>
     </task>
-    <option name="localTasksCounter" value="320" />
+    <task id="LOCAL-00320" summary="stopped at ---&gt; 05.02.09">
+      <created>1612156755625</created>
+      <option name="number" value="00320" />
+      <option name="presentableId" value="LOCAL-00320" />
+      <option name="project" value="LOCAL" />
+      <updated>1612156755625</updated>
+    </task>
+    <option name="localTasksCounter" value="321" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -457,9 +455,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4236038" visible="true" weight="0.28060672" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.42307693" visible="true" weight="0.28060672" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4641728" weight="0.2936078" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5763962" side_tool="true" visible="true" weight="0.28060672" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5769231" side_tool="true" visible="true" weight="0.28060672" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -500,7 +498,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="119">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           </first_editor>
           <second_editor />
         </state>
