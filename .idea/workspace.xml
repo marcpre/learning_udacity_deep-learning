@@ -17,7 +17,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="170">
-                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+                <caret line="10" selection-start-line="10" selection-end-line="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -82,13 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585029149751</updated>
-    </task>
-    <task id="LOCAL-00618" summary="stopped at ---&gt; 05.02.09">
-      <created>1643096970979</created>
-      <option name="number" value="00618" />
-      <option name="presentableId" value="LOCAL-00618" />
-      <option name="project" value="LOCAL" />
-      <updated>1643096970980</updated>
     </task>
     <task id="LOCAL-00619" summary="stopped at ---&gt; 05.02.09">
       <created>1643179722860</created>
@@ -426,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647589881135</updated>
     </task>
-    <option name="localTasksCounter" value="667" />
+    <task id="LOCAL-00667" summary="stopped at ---&gt; 05.02.09">
+      <created>1647674638982</created>
+      <option name="number" value="00667" />
+      <option name="presentableId" value="LOCAL-00667" />
+      <option name="project" value="LOCAL" />
+      <updated>1647674638982</updated>
+    </task>
+    <option name="localTasksCounter" value="668" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -443,9 +443,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.3329821" visible="true" weight="0.27735645" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.33245522" visible="true" weight="0.27735645" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.39251843" weight="0.283857" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.66701794" side_tool="true" visible="true" weight="0.27735645" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.6675448" side_tool="true" visible="true" weight="0.27735645" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.47629082" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -486,7 +486,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="170">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
           </first_editor>
           <second_editor />
         </state>
