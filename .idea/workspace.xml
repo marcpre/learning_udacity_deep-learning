@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3df87bf2-d784-4997-8076-4c58f3490f18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="153">
-                <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <first_editor relative-caret-position="221">
+                <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -443,9 +443,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.29557428" visible="true" weight="0.27410617" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.29504743" visible="true" weight="0.27410617" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.39251843" weight="0.283857" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.7044257" side_tool="true" visible="true" weight="0.27410617" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.7049526" side_tool="true" visible="true" weight="0.27410617" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.47629082" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -485,8 +485,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <first_editor relative-caret-position="221">
+            <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           </first_editor>
           <second_editor />
         </state>
