@@ -83,13 +83,6 @@
       <option name="presentableId" value="Default" />
       <updated>1585029149751</updated>
     </task>
-    <task id="LOCAL-00766" summary="stopped at ---&gt; 05.02.09">
-      <created>1656223505913</created>
-      <option name="number" value="00766" />
-      <option name="presentableId" value="LOCAL-00766" />
-      <option name="project" value="LOCAL" />
-      <updated>1656223505914</updated>
-    </task>
     <task id="LOCAL-00767" summary="stopped at ---&gt; 05.02.09">
       <created>1656303168629</created>
       <option name="number" value="00767" />
@@ -426,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661637691248</updated>
     </task>
-    <option name="localTasksCounter" value="815" />
+    <task id="LOCAL-00815" summary="stopped at ---&gt; 05.02.09">
+      <created>1661732699785</created>
+      <option name="number" value="00815" />
+      <option name="presentableId" value="LOCAL-00815" />
+      <option name="project" value="LOCAL" />
+      <updated>1661732699786</updated>
+    </task>
+    <option name="localTasksCounter" value="816" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -443,9 +443,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.25763962" visible="true" weight="0.27410617" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.25711274" visible="true" weight="0.27410617" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.39251843" weight="0.283857" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.74236035" side_tool="true" visible="true" weight="0.27410617" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.74288726" side_tool="true" visible="true" weight="0.27410617" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.47629082" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
