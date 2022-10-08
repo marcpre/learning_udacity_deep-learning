@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3df87bf2-d784-4997-8076-4c58f3490f18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3df87bf2-d784-4997-8076-4c58f3490f18" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,13 +80,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585029149751</updated>
-    </task>
-    <task id="LOCAL-00802" summary="stopped at ---&gt; 05.02.09">
-      <created>1659972589231</created>
-      <option name="number" value="00802" />
-      <option name="presentableId" value="LOCAL-00802" />
-      <option name="project" value="LOCAL" />
-      <updated>1659972589232</updated>
     </task>
     <task id="LOCAL-00803" summary="stopped at ---&gt; 05.02.09">
       <created>1660025050813</created>
@@ -426,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665030300734</updated>
     </task>
-    <option name="localTasksCounter" value="851" />
+    <task id="LOCAL-00851" summary="stopped at ---&gt; 05.02.09">
+      <created>1665121274821</created>
+      <option name="number" value="00851" />
+      <option name="presentableId" value="LOCAL-00851" />
+      <option name="project" value="LOCAL" />
+      <updated>1665121274822</updated>
+    </task>
+    <option name="localTasksCounter" value="852" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -443,9 +441,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.24341412" visible="true" weight="0.27410617" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.24288724" visible="true" weight="0.27410617" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.39251843" weight="0.283857" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.7565859" side_tool="true" visible="true" weight="0.27410617" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.75711274" side_tool="true" visible="true" weight="0.27410617" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.47629082" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
