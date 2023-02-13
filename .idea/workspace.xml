@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3df87bf2-d784-4997-8076-4c58f3490f18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +83,16 @@
       <option name="presentableId" value="Default" />
       <updated>1585029149751</updated>
     </task>
+<<<<<<< HEAD
+=======
+    <task id="LOCAL-00923" summary="stopped at ---&gt; 05.02.09">
+      <created>1671774911418</created>
+      <option name="number" value="00923" />
+      <option name="presentableId" value="LOCAL-00923" />
+      <option name="project" value="LOCAL" />
+      <updated>1671774911419</updated>
+    </task>
+>>>>>>> f4104a80660aa9ab5c82a8d76de9e531077a9304
     <task id="LOCAL-00924" summary="stopped at ---&gt; 05.02.09">
       <created>1671874383868</created>
       <option name="number" value="00924" />
@@ -420,6 +429,7 @@
       <option name="project" value="LOCAL" />
       <updated>1675935846504</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00972" summary="stopped at ---&gt; 05.02.09">
       <created>1676215248601</created>
       <option name="number" value="00972" />
@@ -428,6 +438,9 @@
       <updated>1676215248602</updated>
     </task>
     <option name="localTasksCounter" value="973" />
+=======
+    <option name="localTasksCounter" value="972" />
+>>>>>>> f4104a80660aa9ab5c82a8d76de9e531077a9304
     <servers />
   </component>
   <component name="ToolWindowManager">
